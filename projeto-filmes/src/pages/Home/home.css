@@ -1,0 +1,48 @@
+.list {
+   max-width: 800px; 
+   margin: 14px auto;
+}
+
+.list article {
+    width: 100%;
+    background-color: white;
+    padding: 14px;
+    border-radius: 8px;
+}
+
+.list strong {
+    margin-bottom: 14px;
+    text-align: center;
+    font-size: 22px;
+    display: block;
+}
+
+.list img {
+    width: 900px;
+    max-width: 100%;
+    max-height: 340px;
+    object-fit: cover;
+    display: block;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.list a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+    font-size: 24px;
+    background-color: royalblue;
+    text-decoration: none;
+    color: white;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 14px;
+}
