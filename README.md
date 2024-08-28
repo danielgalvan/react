@@ -1,2 +1,2 @@
-# react
-Aplicações utilizando react
+# Projetos React
+Repositório que contém projetos utilizando React.
